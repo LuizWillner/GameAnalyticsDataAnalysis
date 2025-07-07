@@ -1,0 +1,3 @@
+Shapiro–Wilk: stat=0.768, p-valor=5.733811512776663e-10
+Rejeita H0: resíduos NÃO são normais (teste de Wilcoxon)
+Wilcoxon signed‐rank: stat=3241.00, p‐valor=4.979746247312681e-14
