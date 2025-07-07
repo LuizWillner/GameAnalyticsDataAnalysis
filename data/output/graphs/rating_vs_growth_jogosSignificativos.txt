@@ -1,0 +1,5 @@
+p_valor=0.0000000001
+⇒ Distribuição não é normal: use Spearman
+
+Pearson r=0.39, p=0.000
+Spearman ρ=0.20, p=0.069
